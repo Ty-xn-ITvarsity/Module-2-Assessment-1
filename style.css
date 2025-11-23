@@ -2,8 +2,6 @@ body{
     padding: 0;
     margin: 0;
     font-family: Helvetica;
-    background: url('images/map-blur.png') no-repeat center center fixed;
-    background-size: cover;
 }
 
 /*===========HEADER==========*/
@@ -85,6 +83,7 @@ body{
     margin-top: 119px;
     background: url('images/map-blur.png');
     background-repeat: repeat-y;
+    background-size: cover;
 }
 
 #content{
